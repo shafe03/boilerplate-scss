@@ -1,0 +1,25 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAC,8HAAI;ACAZ,UAAU,CAAV,KAAU;EACR,IAAI;IACF,UAAU,EAAE,IAAI;;EAElB,EAAE;IACA,UAAU,EAAE,CAAC;;;;ADcjB,AAAA,CAAC,CAAC;EGlBA,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,IAAI;CHkBjB",
+    "sources": [
+        "main.scss",
+        "_0_animation.scss",
+        "_0_function.scss",
+        "_0_mixin.scss",
+        "_0_shared_style.scss",
+        "_0_variables.scss",
+        "_1.1_navbar.scss",
+        "_1.2_landing.scss",
+        "_2_project.scss",
+        "_3_section_learning_history.scss",
+        "_4_challenges.scss",
+        "_5_about_me.scss",
+        "_6_contact.scss",
+        "_7.1_media_query_mobile.scss",
+        "_7.2_media_query_tablet.scss",
+        "_7.3_media_query_laptop.scss",
+        "_7.4_media_query_desktop.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}

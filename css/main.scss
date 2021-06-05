@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Rokkitt:wght@100;200;300;400;500;600;700;800;900&family=Russo+One&display=swap");
+
+@import "0_animation";
+@import "0_function";
+@import "0_mixin";
+@import "0_shared_style";
+@import "0_variables";
+@import "1.1_navbar";
+@import "1.2_landing";
+@import "2_project";
+@import "3_section_learning_history";
+@import "4_challenges";
+@import "5_about_me";
+@import "6_contact";
+@import "7.1_media_query_mobile";
+@import "7.2_media_query_tablet";
+@import "7.3_media_query_laptop";
+@import "7.4_media_query_desktop";
+
+* {
+  @include reset-list;
+}
+
+html {
+  // font-family: 'Rokkitt', serif;
+  // font-family: 'Russo One', sans-serif;
+}

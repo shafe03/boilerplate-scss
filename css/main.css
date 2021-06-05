@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Rokkitt:wght@100;200;300;400;500;600;700;800;900&family=Russo+One&display=swap");
+@-webkit-keyframes slide {
+  from {
+    margin-top: -100;
+  }
+  to {
+    margin-top: 0;
+  }
+}
+@keyframes slide {
+  from {
+    margin-top: -100;
+  }
+  to {
+    margin-top: 0;
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+/*# sourceMappingURL=main.css.map */
