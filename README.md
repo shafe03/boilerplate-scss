@@ -1,2 +1,2 @@
-# boilerplate-scss
-This repository is for scss boilerplate.
+# Boilerplate-scss
+* This repository is for scss boilerplate.
